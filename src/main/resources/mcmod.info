@@ -1,0 +1,16 @@
+[
+{
+  "modid": "[1.8.9] MCGTranslate,
+  "name": "MCGTranslate",
+  "description": "Translate yours and other players' in-game text.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Me"],
+  "credits": "The Forge and FML guys and me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,10 +1,10 @@
 # Translate Minecraft
 Translate yours and other players' in-game text! 
 
-#About
+# About
 This mod requirts "Jaunt" a free webscraping tool. 
 
-#Commands# 
+# Commands
 - /gt - Enables/Disables the mod 
 - /gt help - Shows help message 
 - /gt lang <lang> - Sets the language to translate from a player to english (auto-detect is a feature) 

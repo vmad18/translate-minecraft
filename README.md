@@ -1,8 +1,8 @@
 # Translate Minecraft
-Translate yours and other players' in-game text! 
+Translate messages to and from yourself and other players. 
 
 # About
-This mod requirts "Jaunt" a free webscraping tool. 
+This mod requires "Jaunt" a free webscraping tool. 
 
 # Commands
 - /gt - Enables/Disables the mod 
